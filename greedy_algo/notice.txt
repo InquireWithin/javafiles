@@ -1,0 +1,1 @@
+Nothing in 'knapsack' is written by me. I just used it for the greedy algorithm test.
